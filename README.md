@@ -3,7 +3,7 @@
 *Để tool được chạy các bạn cần phải tải ngôn ngữ lập trình Perl về máy nhé
 (To run the tool, you need to download the Perl programming language to your computer
 
-Link download Perl: https://www.activestate.com/products/perl/
+Link download Perl cho Windows: strawberryperl.com
 
 *Sau khi cài đặt xong các bạn mở file và tiến hành setup cho Perl
 (After the installation is complete, open the file and proceed to setup Perl)
