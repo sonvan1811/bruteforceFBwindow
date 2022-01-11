@@ -22,12 +22,13 @@ Complete documentation for Perl, including FAQ lists, should be found on
 this system using "man perl" or "perldoc perl".  If you have access to the
 Internet, point your browser at http://www.perl.org/, the Perl Home Page.
 
-===========================================================================
 
-*Bây giờ tiến hành chạy tool:
+
+# Bây giờ tiến hành chạy tool(Now proceed to run the tool):
 
 -Các bạn trỏ đến đường dẫn có chứa file 'bruteforceFBwindow' và nhập lệnh:
-
+ (You point to the path containing the file 'bruteforceFBwindow' and enter the command):
+ 
 perl bffb.pl
 
 *Usage: perl bffb.pl <Id FB> <wordlists>
