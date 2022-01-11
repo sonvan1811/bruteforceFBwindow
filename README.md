@@ -2,6 +2,7 @@
 
 *Để tool được chạy các bạn cần phải tải ngôn ngữ lập trình Perl về máy nhé
 (To run the tool, you need to download the Perl programming language to your computer
+
 Link download Perl: https://www.activestate.com/products/perl/
 
 *Sau khi cài đặt xong các bạn mở file và tiến hành setup cho Perl
