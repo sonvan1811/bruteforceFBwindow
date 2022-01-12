@@ -15,7 +15,9 @@ exit; }
 my $user = $ARGV[0];
 my $wordlist = $ARGV[1];
 
-open (LIST, $wordlist) || die "\n[-] No Wordlist On $wordlist -_- \n";
+open (LIST, $wordlist) || die "\n[-] No Wordlist On $wordlist -.- \n";
+
+system('cls');
 
 print "\n----------The tool was created by HackerHevin----------\n";
 print "\n[+] Attack $user ...\n\n";
