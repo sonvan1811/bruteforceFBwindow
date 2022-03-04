@@ -3,9 +3,8 @@
 *Để tool được chạy các bạn cần phải tải ngôn ngữ lập trình Perl về máy nhé
 (To run the tool, you need to download the Perl programming language to your computer
 
-++Link download ActivesPerl cho Windows64bit: https://drive.google.com/file/d/1CZtETW006JeiUZV33SP6h-BU5YcVV7Yk/view?usp=sharing
+++Link download ActivesPerl cho Windows64bit and 32bit: https://strawberryperl.com/
 
-++Link download ActivesPerl cho Windows32bit: https://drive.google.com/file/d/1hTmRygwVkNpZjgU-tl4gbtsMobEdmHl9/view?usp=sharing
 
 *Sau khi cài đặt xong các bạn mở file và tiến hành setup cho Perl
 (After the installation is complete, open the file and proceed to setup Perl)
